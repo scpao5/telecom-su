@@ -2,6 +2,10 @@
 
 中国电信天邑 **TEWA-709V** 光猫（网关）全自动 `telecomadmin` 超级管理员密码获取脚本。
 
+<img width="1280" height="1374" alt="1000372376" src="https://github.com/user-attachments/assets/8ab88361-94dd-427e-8569-4a76f02be5cd" />
+目前对我来说可以正常使用
+
+
 ## 用法
 
 ```sh
